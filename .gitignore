@@ -142,3 +142,6 @@ docsrc/notebooks/.virtual_documents/lmr-real-pages2k-inpdt-verification.ipynb
 *.gz
 *.nc
 *.pkl
+
+# folders
+data
